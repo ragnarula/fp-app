@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ExpandedData.iml" filepath="$PROJECT_DIR$/.idea/ExpandedData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fp-explore.iml" filepath="$PROJECT_DIR$/.idea/fp-explore.iml" />
     </modules>
   </component>
 </project>

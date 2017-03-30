@@ -1,4 +1,6 @@
-env
+.env
+.idea
+.ipynb_checkpoints
 # Created by https://www.gitignore.io/api/windows,osx,linux,pycharm,python
 
 ### Windows ###
@@ -212,3 +214,6 @@ ENV/
 
 # End of https://www.gitignore.io/api/windows,osx,linux,pycharm,python
 
+app/
+csv/
+notebooks/
